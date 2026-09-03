@@ -38,9 +38,5 @@ Saya adalah seorang yang tertarik dengan dunia teknologi, terutama di bidang web
 
 ## 📬 Kontak
 
-- GitHub: [abdulkaharmudzakkar790-cloud
-](https://github.com/abdulkaharmudzakkar790-cloud
-)
-- Email: [abdulkaharmudzakkar790@gmail.com
-](mailto:abdulkaharmudzakkar790@gmail.com
-)
+- GitHub: [abdulkaharmudzakkar790-cloud](https://github.com/abdulkaharmudzakkar790-cloud)
+- Email: [abdulkaharmudzakkar790@gmail.com](mailto:abdulkaharmudzakkar790@gmail.com)
